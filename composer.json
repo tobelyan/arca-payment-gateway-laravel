@@ -1,0 +1,16 @@
+{
+    "name": "tobelyan/arca-payment-gateway-laravel",
+    "type": "library",
+    "description": "Armenian Card Payment Gateway integration.",
+    "keywords": ["arca","ameriabank","acba bank","converse bank"],
+    "homepage": "https://dineuron.com",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rafayel Tobelyan",
+            "email": "tobelyan@dineuron.com",
+            "homepage": "https://dineuron.com",
+            "role": "Owner"
+        }
+    ]
+}
